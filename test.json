@@ -1,0 +1,45 @@
+{
+    "code": 200,
+    "result": [
+        {
+            "ID": 1166,
+            "Content": "《通知》自5/29起，新增物件的刊登期間將調整為30天，先前已刊登物件的刊登期間不受影響",
+            "Link": "https://007.houseprice.tw/plan/membership",
+            "Image": "",
+            "Target": false,
+            "Sort": 4,
+            "StartDate": "2023-06-17T11:20:44",
+            "DownDate": "2033-06-19T00:00:00+08:00"
+        },
+        {
+            "ID": 1167,
+            "Content": "【會員LINE新功能通知】隨時隨地都能調電傳！出門在外也能輕鬆搞定，立即開LINE體驗！",
+            "Link": null,
+            "Image": "",
+            "Target": false,
+            "Sort": 3,
+            "StartDate": "2023-06-17T11:22:48",
+            "DownDate": "2033-06-19T00:00:00+08:00"
+        },
+        {
+            "ID": 1169,
+            "Content": "[會員新功能通知] 專屬「個人店舖」正式推出，下拉會員中心進入店舖網址",
+            "Link": null,
+            "Image": "",
+            "Target": false,
+            "Sort": 2,
+            "StartDate": "2023-06-17T11:24:57",
+            "DownDate": "2033-06-19T00:00:00+08:00"
+        },
+        {
+            "ID": 1168,
+            "Content": "[會員新功能通知] 專屬「個人店舖」正式推出，下拉會員中心進入店舖網址",
+            "Link": null,
+            "Image": "",
+            "Target": false,
+            "Sort": 1,
+            "StartDate": "2023-06-17T11:24:03",
+            "DownDate": "2033-06-19T00:00:00+08:00"
+        }
+    ]
+}
